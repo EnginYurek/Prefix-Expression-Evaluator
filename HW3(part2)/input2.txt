@@ -1,0 +1,8 @@
+enqueue 8 A
+enqueue 5 B
+enqueue 10 C
+dequeue
+enqueue 9 D
+dequeue
+dequeue
+dequeue
